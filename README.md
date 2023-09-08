@@ -10,10 +10,15 @@ Methods:
           validateTheGameisRestartedSuccessfully()-> Validate Game is restarted is Successfully.
           validateTheMoveConformation()-> Validated if the "Make the new Move" is active.
           makeNextFiveMoves()->make and validate the next 5 moves.
+
+          
 Pre-requisites
+
      Install the Cypress using below command
      npm install cypress --save-dev
+     
 Run the Tests
+
    Headed Mode.
      npx cypress run --spec cypress/integration/examples/checkers.js --browser chrome --headed
     Headless on chrome
