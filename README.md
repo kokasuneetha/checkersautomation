@@ -1,4 +1,4 @@
-# checkersautomation
+# Checkers Automation Code
 
 
 Framework Structure.
