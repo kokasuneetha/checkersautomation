@@ -8,10 +8,15 @@ Framework Structure.
 Methods:
 
           navigateUrl() -> Navigates to the URL https://www.gamesforthebrain.com/game/checkers/.
+          
           validatePageisLoaded()-> Validate if the Checkers home page is loaded Successfully.
+          
           restartTheGame()-> Restarts the Game.
+          
           validateTheGameisRestartedSuccessfully()-> Validate Game is restarted is Successfully.
+          
           validateTheMoveConformation()-> Validated if the "Make the new Move" is active.
+          
           makeNextFiveMoves()->make and validate the next 5 moves.
 
           
