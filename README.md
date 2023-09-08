@@ -1,4 +1,6 @@
 # checkersautomation
+
+
 Framework Structure.
      Integration->Examples -  Tests are located in this folder.
      Integration->pageObjects- Where the page object reusable libraries for the methods are located.
@@ -20,7 +22,7 @@ Pre-requisites
      
 Run the Tests
 
-   Headed Mode.
+    Headed Mode
      npx cypress run --spec cypress/integration/examples/checkers.js --browser chrome --headed
     Headless on chrome
     npx cypress run --spec cypress/integration/examples/checkers.js --browser chrome
