@@ -13,11 +13,11 @@ Framework Structure.
 
 
 
-Pre-requisites:
+Pre-requisites
      Install the Cypress using below command
      npm install cypress --save-dev
 
-Run the Tests:
+Run the Tests
    Headed Mode.
      npx cypress run --spec cypress/integration/examples/checkers.js --browser chrome --headed
 
