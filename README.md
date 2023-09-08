@@ -24,8 +24,10 @@ Run the Tests
 
     Headed Mode
      npx cypress run --spec cypress/integration/examples/checkers.js --browser chrome --headed
+     
     Headless on chrome
     npx cypress run --spec cypress/integration/examples/checkers.js --browser chrome
+    
     Command to run the tests to record in DashBoard.
     npx cypress run --record --key 286d2b20-4ba6-4c5b-873d-a80973b5f1ab cypress/integration/examples/checkers.js --browser chrome --headed
 
