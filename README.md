@@ -4,6 +4,7 @@ Framework Structure.
      Integration->pageObjects- Where the page object reusable libraries for the methods are located.
 
 Methods:
+
           navigateUrl() -> Navigates to the URL https://www.gamesforthebrain.com/game/checkers/.
           validatePageisLoaded()-> Validate if the Checkers home page is loaded Successfully.
           restartTheGame()-> Restarts the Game.
